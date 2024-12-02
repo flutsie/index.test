@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
+
+ul p {
+    color:grey;
+
+}
+
+*{
+
+    font-family: "sour gummy";
+}
+h1{
+
+    padding: 4%;
+    border: 2px;
+}
+
+
+h2{
+    outline: 1px;
+
+}
+
+
+*{
+    background-color:burlywood;
+}
+
+h2:active{
+    color: aquamarine;
+}
+
+
+.linkje{
+    color: rgb(87, 169, 105);
+
+}
+
+.linkje:hover {
+    background-color: blueviolet;
+}
+
+
+
+header > p {
+    display:flex ;
+    justify-content: center;
+    width: 30%;
+    border: 2px solid black;
+    background-color: goldenrod;
+    margin-bottom: 2em;
+} 
+
+
+
+header > h2 {
+    margin-top: 0.01em;
+    opacity: 40%;
+
+}
+
+
+
+
+img {
+    display: flex;
+    width: 30%;
+    justify-content:center;
+    align-items:center;
+}
+
+
+
+nav > ul{
+    display: flex;
+    list-style: none;
+    font-size: x-large;
+    justify-content: space-between;
+    font-weight: bold;
+    padding: 0.5em;
+    margin: 0 1.5em;
+}
+
+
+
+header > p{
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+
+} 
+
+
+#belgiche_zin {
+    color: indigo;
+}
+
+footer {
+margin: 0 auto;
+background-color: yellow;
+width: 50%;
+text-align: center;
+}
